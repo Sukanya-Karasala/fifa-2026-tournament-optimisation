@@ -1,0 +1,6 @@
+pandas
+numpy
+openpyxl
+pyomo
+matplotlib
+# GLPK solver: conda install -c conda-forge glpk (or apt install glpk-utils / brew install glpk)
